@@ -4,7 +4,7 @@ Olá! Me chamo Francisco Kovaleski e sou estudante de Ciência da Computação n
 
 Atualmente estou aprendendo programação e desenvolvendo projetos durante a graduação, com foco em Python, HTML e CSS.
 
-## 🚀 Tecnologias em aprendizado
+##  Tecnologias em aprendizado
 
 <p align="left">
   <img
